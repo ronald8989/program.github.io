@@ -1,0 +1,140 @@
+
+.Facechat1 {
+position: relative;
+left: 45%;
+}
+/* foto de perfil */
+.foto {
+    left: 45%;
+    position: relative;
+    width: 10%;
+    z-index: -1;
+    border-radius: 100%;
+}
+/* boton perfil */
+.Perfil {
+    position: relative;
+    top: 10px;
+    left: 10%;
+}
+/* boton amigos */
+.Amigos {
+position: relative;
+top: -12px;
+left: 33%;
+}
+/* botones opciones */
+.Opciones {
+position: relative;
+top: -30px;
+left: 66%;
+}
+.RandomImg {
+position: relative;
+top: -30px;
+left: 80%;
+}
+.lol {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 5px;
+    height: 200%;
+    background-color: rgb(255, 255, 255);
+
+}
+.lol2 {
+    position: absolute;
+    right: 0;
+    top: 0;
+    left: 0;
+    width: 15px;
+    height: 200%;
+}
+.seguir {
+    position: relative;
+    height: 100px;
+    left: 15px;
+}
+.perfiles {
+    position: relative;
+    left: 100px;
+}
+#pol{
+    border-radius: 100%;
+    left: 100px;
+}
+.p1 {
+    border-radius: 100%;
+}
+.pedro {
+position: relative;
+}
+.p2 {
+position: relative;
+border-radius: 100%;
+left: 15%;
+top: -167px;
+}
+.juan{
+position: relative;
+left: 15%;
+top: -170px;
+}
+.p3 {
+    position: relative;
+    left: 30%;
+    border-radius: 100%;
+    top: -334px;
+}
+.jorge{
+position: relative;
+left: 30%;
+top: -340px;
+}
+.p4{
+    position: relative;
+    left: 45%;
+    border-radius: 100%;
+    top: -501px;
+}
+.nicolas{
+position: relative;
+left: 45%;
+top: -510px;
+}
+.p5 {
+    position: relative;
+    border-radius: 100%;
+    left: 60%;
+    top: -668px;
+}
+.fernando {
+    position: relative;
+    left: 60%;
+    top: -680px;
+
+}
+.p6 {
+    position: relative;
+    border-radius: 100%;
+    left: 74%;
+    top: -835px;
+}
+.fredy {
+    position: relative;
+    left: 75%;
+    top: -850px;
+}
+
+.p7 {
+    position: relative;
+    border-radius: 100%;
+    left: 90%;
+    top: -1002px;
+}
+.andino {
+    position: relative;
+    left: 91%;
+    top: -1020px;
+}
